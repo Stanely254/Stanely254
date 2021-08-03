@@ -2,7 +2,10 @@
 
 
 I'm **Stanley** 
-<!--is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)
+[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh&count_private=true&show_icons=true&theme=light&border_radius=35)](https://github.com/Stanely254/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)](https://github.com/STanely254/github-readme-stats)
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
