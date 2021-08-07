@@ -1,16 +1,24 @@
-# stanely254
+### Hi there 👋
 
-A new Flutter project.
 
-## Getting Started
+I'm **Stanley** 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)
+ 
+[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh&count_private=true&show_icons=true&theme=light&border_radius=35)](https://github.com/Stanely254/github-readme-stats)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)](https://github.com/Stanely254/github-readme-stats)
+<!--is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
