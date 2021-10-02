@@ -4,7 +4,7 @@
 I'm **Stanley** 
 
 
-[](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)
+[Github Stats](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)
  
 [![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh&count_private=true&show_icons=true&theme=light&border_radius=35)](https://github.com/Stanely254/github-readme-stats)
 
