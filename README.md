@@ -3,10 +3,10 @@
 
 I'm **Stanley** 
 
-[![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanely254)](https://github.com/anuraghazra/github-readme-stats)
+![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanely254)<!--(https://github.com/Sta/github-readme-stats) -->
 <!--[Github Stats](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&show_icons=true&theme=dark&border_radius=10)](https://github.com/Stanely254/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&show_icons=true&theme=dark&border_radius=10) <!--(https://github.com/Stanely254/github-readme-stats) -->
  
 <!-- [![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh&count_private=true&show_icons=true&theme=light&border_radius=35)](https://github.com/Stanely254/github-readme-stats)
 
