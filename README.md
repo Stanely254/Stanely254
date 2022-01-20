@@ -4,7 +4,7 @@
 
 <!-- ![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/2549?logoColor=white%26project=%26recentMS=0%26showProject=true) -->
 
-[![Stanley's WakaTime Stats](https://wakatime.com/badge/user/b23157a1-8a21-4342-bb04-0cd47679ce59.svg)](https://wakatime.com/@b23157a1-8a21-4342-bb04-0cd47679ce59)
+<!-- [![Stanley's WakaTime Stats](https://wakatime.com/badge/user/b23157a1-8a21-4342-bb04-0cd47679ce59.svg)](https://wakatime.com/@b23157a1-8a21-4342-bb04-0cd47679ce59) -->
 
 <!-- [![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanely254)](https://github.com/Stanely254/github-readme-stats)  -->
 
