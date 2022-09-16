@@ -1,6 +1,6 @@
 # <p align="center">Hi there 👋,  I'm **Stanley Muyuga**</p>
 
-### <p align="center">Software Engineer | Flutter | Jetpack Compose | JavaScript | PHP </p>
+### <p align="center">Software Developer { Flutter/Dart | Kotlin | PHP | JavaScript } </p>
 
 <!-- ![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/2549?logoColor=white%26project=%26recentMS=0%26showProject=true) -->
 
