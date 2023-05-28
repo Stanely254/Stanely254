@@ -1,6 +1,56 @@
-# <p align="center">Hi there 👋,  I'm **Stanley Muyuga**</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+ Hey 🙋‍♂️, am Stanley
+</div>
 
-### <p align="center">Software Developer { Flutter/Dart | Kotlin | PHP | JavaScript } </p>
+---
+
+### :man_technologist:  About Me :
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+
+- :telescope: I’m working as a Software Developer.
+
+- :seedling: Exploring Technical Content Blogs.
+
+- :zap: In my free time, I solve problems on leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanelymyuga.12@gmail.com)
+
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="MJavascript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL" alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+ 
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Studio" alt="Studio" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Studio" alt="Studio" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Studio" alt="Studio" width="40" height="40"/>&nbsp;
+ 
+</div>
+
+---
+
+### :fire: My Stats :
+
+|       |      |
+| :---        |          ---: |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stanely254&theme=dark&background=000000)](https://git.io/streak-stats) | ![Github Stats](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50) |
+
+### :alarm_clock: WakaTime Stats :
+[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh)](https://github.com/Stanely254/github-readme-stats)
+
+
+<!-- ### <p align="center">Software Developer | Flutter, Kotlin, Javascript, Firebase and Dart | Bringing Cross-Platform Solutions to Life </p> -->
 
 <!-- ![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/2549?logoColor=white%26project=%26recentMS=0%26showProject=true) -->
 
@@ -8,14 +58,12 @@
 
 <!-- [![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanely254)](https://github.com/Stanely254/github-readme-stats)  -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Stanely254&count_private=true&show_icons=true&theme=dark&border_radius=50) -->
 
 
 <!--(https://github.com/Stanely254/github-readme-stats) -->
 
-[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh)](https://github.com/Stanely254/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&show_icons=true&theme=dark&border_radius=10) 
+<!-- [![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh)](https://github.com/Stanely254/github-readme-stats) -->
 
  
 <!-- [![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh&count_private=true&show_icons=true&theme=light&border_radius=35)](https://github.com/Stanely254/github-readme-stats)
