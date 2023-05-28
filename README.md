@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
- Hey 🙋‍♂️, am Stanley
+ 👋 Hey there! I'm Stanley Muyuga
 </div>
 
 ---
@@ -10,13 +10,27 @@
 ### :man_technologist:  About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
-- :telescope: I’m working as a Software Developer.
+- 💻 My primary focus is on Flutter and Dart, where I excel at building cross-platform mobile apps with beautiful UI and smooth animations. I also have a solid understanding of Kotlin for Android development and JavaScript for web applications.
+
+- 🔥 I have extensive experience working with Firebase, utilizing its real-time database, authentication to create scalable and robust backend solutions.
+
+- 💾 In addition to Firebase, I'm well-versed in database management using MySQL. I have a strong understanding of database design principles, SQL queries, and optimizing database performance.
+
+- 📚 I'm a lifelong learner and continuously explore new technologies and frameworks to expand my skill set. I keep up with the latest industry trends and strive to implement best practices in my projects.
+
+- 🌍 Beyond coding, I have a deep interest in creating meaningful and impactful applications. I love working on projects that make a positive difference in people's lives and contribute to the betterment of society.
+
+- 🤝 Let's connect and collaborate! [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-muyuga-b23a3916a/)
+
+
+
+<!-- - :telescope: I’m working as a Software Developer.
 
 - :seedling: Exploring Technical Content Blogs.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanelymyuga.12@gmail.com)
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanelymyuga.12@gmail.com) -->
 
 
 ---
