@@ -18,7 +18,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 📚 I'm a lifelong learner and continuously explore new technologies and frameworks to expand my skill set. I keep up with the latest industry trends and strive to implement best practices in my projects.
 
-- 🌍 Beyond coding, I have a deep interest in creating meaningful and impactful applications. I love working on projects that make a positive difference in people's lives and contribute to the betterment of society.
+- 🌍 Beyond coding, I love working on projects that make a positive difference in people's lives and contribute to the betterment of society.
 
 - 🤝 Let's connect and collaborate! [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-muyuga-b23a3916a/)
 
