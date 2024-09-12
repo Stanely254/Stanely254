@@ -20,6 +20,8 @@ Hi I'm Stanley, a Software engineer <img src="https://media.giphy.com/media/WUlp
 ![](https://github-readme-stats.vercel.app/api?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Stanely254&theme=radical&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 WakaTime Stats:
+[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh)](https://github.com/Stanely254/github-readme-stats)
 
 ---
 
