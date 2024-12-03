@@ -7,8 +7,6 @@ Hi I'm Stanley, a Software engineer <img src="https://media.giphy.com/media/WUlp
 - Building projects with flutter.
 
 ### 🔭 Projects I've worked in:
-- **Wolkskool**: An educational platform built with Flutter.
-- **Vraagbank**:  A question bank system designed to streamline academic content and assessments.
 - **Viusasa**: A Kenyan digital platform that distributes a wide range of products and services including videos, TV and radio streams, shopping, bill payments, education, games and more.
 
 ## 🌐 Socials:
