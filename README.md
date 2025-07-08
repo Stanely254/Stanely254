@@ -1,26 +1,76 @@
+<h1 align="center">Hi, I'm Stanley  👋</h1>
+<p align="center">
+  <b>Software Developer | Mobile & Cross-Platform Enthusiast</b><br>
+  <i>Enthusiastic lifelong learner, driven to create amazing things alongside equally passionate people.</i>
+</p>
 
-# 💫 About Me:
-Hi I'm Stanley, a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya. Welcome to my GitHub profile! I'm a passionate software engineer with a focus on building scalable web and mobile applications. I love exploring new technologies and frameworks, and I'm always eager to learn and contribute to meaningful projects.
-
-### 🌱 What I'm currently working on:
-- Improving my skills in Native Android using Jetpack Compose.
-- Building projects with flutter.
-
-### 🔭 Projects I've worked in:
-- **Viusasa**: A Kenyan digital platform that distributes a wide range of products and services including videos, TV and radio streams, shopping, bill payments, education, games and more.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stanley-m-b23a3916a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Star_Norh) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stanely254&theme=radical&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-# 📊 WakaTime Stats:
-[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh)](https://github.com/Stanely254/github-readme-stats)
+<p align="center">
+  <a href="https://www.linkedin.com/in/stanley-m-b23a3916a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Star_Norh">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X"/>
+  </a>
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Stanely254's GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanely254&theme=radical&hide_border=false" alt="Stanely254's GitHub Streak" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <b>Languages:</b><br>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+<p>
+  <b>Frameworks:</b><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/KMP-5C2D91?style=flat&logo=android&logoColor=white" alt="KMP"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
+
+<p>
+  <b>Tools:</b><br>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## ⏰ WakaTime Activity
+
+<p align="center">
+  <a href="https://github.com/Stanely254/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh" alt="Stanely254's WakaTime Stats"/>
+  </a>
+</p>
+
+---
+
+<details>
+  <summary><b>More About Me</b></summary>
+  <ul>
+    <li>🌍 Based in Nairobi, Kenya</li>
+    <li>💬 Always open to collaborating on exciting projects</li>
+    <li>📱 Keen on mobile-first & cross-platform solutions</li>
+    <li>🧠 “Just know that I'm a lifelong learner, and I've always wanted to work with those who are as passionate as I am in building cool staff.”</li>
+  </ul>
+</details>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
