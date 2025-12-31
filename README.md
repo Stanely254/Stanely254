@@ -15,16 +15,15 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Stanely254's GitHub Stats" height="170">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanely254&theme=radical&hide_border=false" alt="Stanely254's GitHub Streak" height="170">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stanely254&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
+</p> -->
 
----
 
 ## 🛠️ Tech Stack
 
@@ -51,15 +50,11 @@
 
 ---
 
-## ⏰ WakaTime Activity
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Stanely254/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=StarNorh" alt="Stanely254's WakaTime Stats"/>
   </a>
-</p>
-
----
+</p> -->
 
 <details>
   <summary><b>More About Me</b></summary>
