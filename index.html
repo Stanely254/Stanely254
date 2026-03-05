@@ -1006,14 +1006,14 @@
         <a href="#hero" class="nav-logo">
             <img src="favicon.ico" alt="SM" />
         </a>
-        <button class="menu-toggle" id="menuToggle" aria-label="Toggle Navigation">
+        <!-- <button class="menu-toggle" id="menuToggle" aria-label="Toggle Navigation">
             <span></span>
             <span></span>
             <span></span>
-        </button>
+        </button> -->
         <ul class="nav-links" id="navLinks">
             <li><a href="#about">about</a></li>
-            <li><a href="javascript:void(0)" id="resumeLink">resume</a></li>
+            <li><a href="javascript:void(0)" class="open-resume">resume</a></li>
             <li><a href="#skills">skills</a></li>
             <li><a href="#contact">contact</a></li>
         </ul>
@@ -1025,10 +1025,10 @@
         <div class="hero-inner">
             <div class="hero-tag">Available for new opportunities</div>
             <h1 class="hero-name">Stanley<br /><em>Muyuga</em></h1>
-            <p class="hero-desc">Software developer specializing in Flutter &amp; mobile engineering. I build fast,
+            <p class="hero-desc">Mobile Engineer specializing in Flutter &amp; Native Android. I build fast,
                 reliable, and beautifully crafted applications for ambitious products.</p>
             <div class="hero-cta">
-                <a id="resumeLink" class="btn btn-primary">View My Work &#8595;</a>
+                <a id="resumeLink" class="btn btn-primary open-resume">View My Work &#8595;</a>
                 <a href="#contact" class="btn btn-ghost">Get In Touch</a>
             </div>
         </div>
@@ -1047,13 +1047,12 @@
                     <h2 class="section-title">Crafting mobile<br /><em
                             style="font-style:italic;color:var(--accent)">experiences</em></h2>
                     <div class="about-text">
-                        <p>I'm a results-driven software developer with 5+ years of experience building mobile and web
-                            applications. My focus lies in Flutter/Dart and Kotlin, where I've shipped production-grade
-                            apps for clients across East Africa and beyond.</p>
-                        <p>I've delivered VOD streaming platforms with DRM, ExoPlayer, and complex state management, as
-                            well as full-stack web products — always with clean architecture and performance in mind.
-                        </p>
-                        <p>I care about the details that elevate a good app into a great one.</p>
+                        <p>I build robust, scalable applications that don't just work—they perform. With over 5 years of
+                            experience focused on Kotlin and Flutter, I specialize in translating complex requirements
+                            into seamless mobile and full-stack web products.</p>
+                        <p>From engineering secure VOD streaming platforms with custom ExoPlayer and DRM integrations,
+                            to architecting clean, maintainable systems, I focus on the critical engineering details
+                            that elevate a good application into a great one.</p>
                     </div>
                 </div>
                 <div class="about-stats reveal" style="transition-delay:0.15s">
@@ -1202,8 +1201,9 @@
     <!-- FOOTER -->
     <footer>
         <div class="footer-inner">
-            <!-- <p>glpat-wP3jaf79L_UfT580IXOHym86MQp1OmRyeGpoCw.01.1206pipsl</p> -->
-            <p class="footer-copy">&copy; 2025 Stanley Muyuga</p>
+            <p class="footer-copy">&copy;
+                <script>document.write(new Date().getFullYear())</script> Stanley Muyuga
+            </p>
             <p class="footer-stack">Built with HTML &#183; CSS &#183; Vanilla JS</p>
         </div>
     </footer>
@@ -1221,6 +1221,7 @@
     </div>
 
     <script>
+        // Custom Cursor
         var cursor = document.getElementById('cursor');
         var ring = document.getElementById('cursorRing');
         var mx = 0, my = 0, rx = 0, ry = 0;
@@ -1232,79 +1233,56 @@
             requestAnimationFrame(animCursor);
         }
         animCursor();
-        document.querySelectorAll('a, button, .skill-pill').forEach(function (el) {
+        document.querySelectorAll('a, button, .skill-tag').forEach(function (el) {
             el.addEventListener('mouseenter', function () { ring.style.width = '48px'; ring.style.height = '48px'; cursor.style.transform = 'translate(-50%,-50%) scale(1.6)'; });
             el.addEventListener('mouseleave', function () { ring.style.width = '32px'; ring.style.height = '32px'; cursor.style.transform = 'translate(-50%,-50%) scale(1)'; });
         });
-        var nav = document.getElementById('nav');
-        window.addEventListener('scroll', function () {
-            nav.classList.toggle('scrolled', window.scrollY > 40);
-        });
-        var reveals = document.querySelectorAll('.reveal');
-        var obs = new IntersectionObserver(function (entries) {
-            entries.forEach(function (e) {
-                if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
-            });
-        }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
-        reveals.forEach(function (el) { obs.observe(el); });
 
-        // Resume Modal Logic
-        var resumeLink = document.getElementById('resumeLink');
+        // Nav scroll
+        var nav = document.getElementById('nav');
+        window.addEventListener('scroll', function () { nav.classList.toggle('scrolled', window.scrollY > 40); });
+
+        // Reveal on scroll
+        var obs = new IntersectionObserver(function (entries) {
+            entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); } });
+        }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+        document.querySelectorAll('.reveal').forEach(function (el) { obs.observe(el); });
+
+        // Resume Modal — single open function, all .open-resume triggers it
         var resumeModal = document.getElementById('resumeModal');
         var closeModal = document.getElementById('closeModal');
 
-        resumeLink.addEventListener('click', function () {
+        function openModal() {
             resumeModal.classList.add('active');
-            document.body.style.overflow = 'hidden'; // Prevent scrolling
-        });
-
+            document.body.style.overflow = 'hidden';
+        }
         function hideModal() {
             resumeModal.classList.remove('active');
             document.body.style.overflow = '';
         }
 
+        // Attach to ALL .open-resume elements (nav link + hero button)
+        document.querySelectorAll('.open-resume').forEach(function (el) {
+            el.addEventListener('click', openModal);
+        });
+
         closeModal.addEventListener('click', hideModal);
+        resumeModal.addEventListener('click', function (e) { if (e.target === resumeModal) hideModal(); });
+        document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && resumeModal.classList.contains('active')) hideModal(); });
 
-        resumeModal.addEventListener('click', function (e) {
-            if (e.target === resumeModal) hideModal();
-        });
-
-        document.addEventListener('keydown', function (e) {
-            if (e.key === 'Escape' && resumeModal.classList.contains('active')) hideModal();
-        });
-
-        // Add to existing hover effects
-        resumeLink.addEventListener('mouseenter', function () {
-            ring.style.width = '48px'; ring.style.height = '48px';
-            cursor.style.transform = 'translate(-50%,-50%) scale(1.6)';
-        });
-        resumeLink.addEventListener('mouseleave', function () {
-            ring.style.width = '32px'; ring.style.height = '32px';
-            cursor.style.transform = 'translate(-50%,-50%) scale(1)';
-        });
-
-        // Mobile Menu Toggle Logic
+        // Mobile Menu
         var menuToggle = document.getElementById('menuToggle');
         var navLinks = document.getElementById('navLinks');
-        var body = document.body;
-
         menuToggle.addEventListener('click', function () {
             navLinks.classList.toggle('active');
             nav.classList.toggle('nav-open');
-            // Prevent scrolling when menu is open
-            if (navLinks.classList.contains('active')) {
-                body.style.overflow = 'hidden';
-            } else {
-                body.style.overflow = '';
-            }
+            document.body.style.overflow = navLinks.classList.contains('active') ? 'hidden' : '';
         });
-
-        // Close menu when clicking a link
         document.querySelectorAll('.nav-links a').forEach(function (link) {
             link.addEventListener('click', function () {
                 navLinks.classList.remove('active');
                 nav.classList.remove('nav-open');
-                body.style.overflow = '';
+                document.body.style.overflow = '';
             });
         });
     </script>
